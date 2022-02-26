@@ -91,11 +91,12 @@ body {
 .layout__primary {
     flex: 1 0 auto;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #005bbc;
     box-shadow: 0 2px 4px 0 rgba(14, 30, 37, 0.12)
 }
 
 .layout__secondary {
+    background-color: #ffd600;
     display: none
 }
 
