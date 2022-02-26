@@ -5,6 +5,6 @@ title: 'Code of Conduct'
 
 # Code of Conduct
 
-Rules for being in this webring.
+Κανόνες αυτού του ring
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+Απλά δώστε τα παραδοτέα στην ώρα τους lmao
