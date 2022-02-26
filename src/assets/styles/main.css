@@ -284,7 +284,7 @@ pre[class*='language-'] {
 .token.symbol,
 .token.deleted,
 .token.class-name {
-    color: #ae81ff
+    color: #ffd600
 }
 
 .token.boolean,
@@ -416,13 +416,13 @@ pre[class*='language-'] {
 
 .btn--primary {
     color: #fff;
-    background-color: #7b16ff
+    background-color: #ffd600
 }
 
 .btn--primary:hover,
 .btn--primary:focus {
     text-decoration: none;
-    background-color: #6b00f6;
+    background-color: #ffd600;
     color: #fff
 }
 
@@ -503,7 +503,7 @@ pre[class*='language-'] {
 }
 
 .map__center {
-    fill: #7b16ff;
+    fill: #ffd600;
     fill-opacity: 0.25
 }
 
@@ -515,11 +515,11 @@ pre[class*='language-'] {
     fill: #6f6f6e;
     stroke-width: 5;
     stroke-opacity: 0;
-    stroke: #7b16ff
+    stroke: #ffd600
 }
 
 .map__node:hover {
-    fill: #7b16ff;
+    fill: #ffd600;
     stroke-opacity: 1
 }
 
