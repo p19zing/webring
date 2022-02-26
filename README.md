@@ -10,5 +10,6 @@ Team members:
 | 2 | 2016172 | [Αναστάσιος Χυτήρης](https://github.com/Combustiblemon) |
 | 3 | 2019027 | [Χρήστος Ζηγγόπης](https://github.com/p19zing) |
 | 4 | 2019070 | [Ερρίκος Φοίβος Καββαδίας](https://github.com/p19kavv1) |
+| 5 | 2019026 | [Γεώργιος Βρούζος](https://github.com/p19vrou) |
 
 Check the base repository in order to find out how to set your own webring!
