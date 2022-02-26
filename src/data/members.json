@@ -1,12 +1,22 @@
 [
     {
-        "title": "Ερρίκος Φοίβος Καββαδίας",
-        "url": "https://mxb.dev/",
-        "feed": "https://mxb.dev/feed.xml"
+        "title": "Panagiotis Vamvakas",
+        "url": "https://www.cvlink.gr/",
+        "feed": null
     },
     {
-        "title": "Παναγιώτης Βαμβακάς",
-        "url": "https://www.matuzo.at/",
-        "feed": "https://www.matuzo.at/feed.xml"
+        "title": "Anastasios Xitiris",
+        "url": "https://www.cvlink.gr/",
+        "feed": null
+    },
+    {
+        "title": "Xristos Zigopis",
+        "url": "https://www.cvlink.gr/",
+        "feed": null
+    },
+    {
+        "title": "Erikos Foivos Kavvadias",
+        "url": "https://www.cvlink.gr/",
+        "feed": null
     }
 ]
