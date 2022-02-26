@@ -162,14 +162,14 @@ h3,
 }
 
 a {
-    color: #7b16ff;
+    color: #ffd600;
     font-weight: 500;
     text-decoration: none
 }
 
 a:hover,
 a:focus {
-    color: #6200e2;
+    color: #fee600;
     text-decoration: underline
 }
 
