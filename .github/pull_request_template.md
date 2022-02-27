@@ -1,17 +1,7 @@
-## Adding your site
+# Προσθήκη υλικού
 
-To add a new site to the webring, please supply the following information:
+## Κοιτάξτε το preview για τυχόν λάθη
 
-* Name of your site
-* URL of your site
-* URL of your RSS feed (optional)
+\- Sybil Reisz
 
-Example:
-
-```json
-{
-    "title": "Frank's awesome site",
-    "url": "https://www.franks-awesome-site.org",
-    "feed": null
-}
-```
+<img src="https://pbs.twimg.com/profile_images/736467491015122944/FZxwmxR-_400x400.jpg">
